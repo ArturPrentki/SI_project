@@ -8,4 +8,6 @@ Obliczane jest podobieństwo między histogramami obiektów na podstawie współ
 Iloraz mocy części wspólnej zbiorów i mocy sumy tych zbiorów - zwraca podobienstwo miedzy przechodniami
 ### Structural similarity
 Funkcja oblicza wartość podobieństwa strukturalnego między dwoma obiektami. SSIM jest miarą podobieństwa strukturalnego między dwoma obrazami, uwzględniając zarówno informacje o jasności, kontraście, jak i strukturze.
+
+### Porownanie wynikow z bboxes_gt
 ![Screenshot from 2024-06-13 00-20-49](https://github.com/ArturPrentki/SI_project/assets/76473377/77227bc5-333d-446f-a365-5606ba53b849)
